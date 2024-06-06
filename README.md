@@ -30,6 +30,8 @@ Ensure you have properly install Python >=3
 ## Running the application
 This repository comes with default input file in app/storage/input which is downloaded from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
+This will run in approx 50 to 70 seconds on machine with high-end CPU and RAM
+
 ```bash
   python3 main.py
 ```
